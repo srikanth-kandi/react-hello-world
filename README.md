@@ -1,2 +1,3 @@
 # react-hello-world
-Hello world! in React JS
+
+Hello world! in React JS ⚛️

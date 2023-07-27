@@ -2,7 +2,7 @@
 
 Live demo - [https://srikanth-kandi.github.io/react-hello-world/](https://srikanth-kandi.github.io/react-hello-world/)
 
-Implemented with the help of React CDN v17.0.0 - [https://reactjs.org/docs/cdn-links.html](https://reactjs.org/docs/cdn-links.html) and Babel CDN - [https://babeljs.io/docs/en/babel-standalone](https://babeljs.io/docs/en/babel-standalone)
+Implemented with the help of React CDN v17.0.0 - [https://reactjs.org/docs/cdn-links.html](https://reactjs.org/docs/cdn-links.html) and Babel CDN v7.12.4 - [https://babeljs.io/docs/en/babel-standalone](https://babeljs.io/docs/en/babel-standalone)
 
 I used the `JSX` syntax and Babel to convert it to JavaScript.
 

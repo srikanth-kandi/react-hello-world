@@ -1,4 +1,4 @@
-# Hello world! in React JS ⚛️
+# Hello world! in ReactJS ⚛️
 
 Live demo - [https://srikanth-kandi.github.io/react-hello-world/](https://srikanth-kandi.github.io/react-hello-world/)
 
